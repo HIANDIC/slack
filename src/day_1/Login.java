@@ -1,0 +1,13 @@
+package day_1;
+
+import org.w3c.dom.ls.LSOutput;
+
+public class Login {
+
+    public static void main(String[] args) {
+
+        //Slack users can login successfully
+
+    }
+
+}
