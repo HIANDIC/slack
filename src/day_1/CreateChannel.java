@@ -14,13 +14,12 @@ public class CreateChannel {
 
 
     
-    String s= "a";
-    if(s.contains("a")){
-         System.out.println("contains");
-    }else {
-        System.out.println("not");
-
-    }
+        String s= "a";
+            if(s.contains("a")){
+                System.out.println("contains");
+            }else {
+                System.out.println("not");
+            }
 
     }
     
